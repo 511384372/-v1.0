@@ -1,5 +1,6 @@
 <?
 include_once("inc/utility.php");
+
 include_once('../include/common.inc.php');
 
 $columns_id = $column_id.",20";
